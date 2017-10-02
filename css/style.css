@@ -46,6 +46,11 @@ p {
   margin: 20px;
 }
 
+a {
+  color:inherit;
+  text-align: center;
+}
+
 #section1 {
 text-align:center;
 }
@@ -61,5 +66,13 @@ border-radius: 100%;
 
 #inspection {
   text-align:center;
+}
+
+#email {
+  text-align: center;
+}
+
+#mailanchor{
+  margin-top: 250px;
 }
 
